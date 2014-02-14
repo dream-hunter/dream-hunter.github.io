@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dream-hunter.github.io/sitemap.xml 
+Sitemap: http://bedoer.com/sitemap.xml 
